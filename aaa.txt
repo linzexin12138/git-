@@ -3,4 +3,8 @@ aaa
 ccc
 eee
 aaa
+<<<<<<< HEAD
 bbbaaaa
+=======
+bbbb
+>>>>>>> 5e815a7 (bbb)
