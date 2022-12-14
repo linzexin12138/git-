@@ -8,4 +8,8 @@ bbbaaaa
 =======
 bbbb
 >>>>>>> 5e815a7 (bbb)
+<<<<<<< HEAD
 aaaafsfsdaaa
+=======
+aaaafsfsd
+>>>>>>> 8005e38 (aaaa)
