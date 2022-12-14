@@ -4,7 +4,7 @@ ccc
 eee
 aaa
 <<<<<<< HEAD
-dddbbb
+bbbaaaa
 =======
-dddaaa
->>>>>>> master
+bbbb
+>>>>>>> 5e815a7 (bbb)
