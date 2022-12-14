@@ -3,8 +3,4 @@ aaa
 ccc
 eee
 aaa
-<<<<<<< HEAD
-dddbbb
-=======
-dddaaa
->>>>>>> master
+bbb
